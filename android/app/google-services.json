@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051047747697",
+    "project_id": "bumba-129a1",
+    "storage_bucket": "bumba-129a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051047747697:android:aaf0863a26b7194181bbd0",
+        "android_client_info": {
+          "package_name": "com.bumba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKCn9R6xvwvgWStokOfzec5x3BKKTQYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
