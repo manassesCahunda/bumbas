@@ -8,7 +8,7 @@
 
 ![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_68b4a6a5.jpg)
 
-![Texto Alternativo](Imagem WhatsApp 2024-07-12 às 00.33.01_b0be034e.jpg)
+![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_b0be034e.jpg)
 **Descrição do Projeto: Sistema de Prestação de Serviços com React Native**
 
 ---
