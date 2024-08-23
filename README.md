@@ -1,5 +1,13 @@
 ![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-08-10%20%C3%A0s%2015.25.49_bd7a74fd.jpg)
 
+![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_bf80fe99.jpg)
+
+![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.02_50d20739.jpg)
+
+![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-08-10%20%C3%A0s%2015.25.49_bd7a74fd.jpg)
+
+![Texto Alternativo](https://github.com/manassesCahunda/bumbas/blob/main/Imagem%20WhatsApp%202024-07-12%20%C3%A0s%2000.33.01_68b4a6a5.jpg)
+
 **Descrição do Projeto: Sistema de Prestação de Serviços com React Native**
 
 ---
